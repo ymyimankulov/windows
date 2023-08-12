@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="400" height="400" viewBox="0 0 400 400" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.2</desc>
+<defs>
+</defs>
+<g transform="matrix(4.17 0 0 4.17 200 200)" id="surface1"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(2,136,209); fill-rule: nonzero; opacity: 1;"  transform=" translate(-24, -24)" d="M 42 37 C 42 39.761719 39.761719 42 37 42 L 11 42 C 8.238281 42 6 39.761719 6 37 L 6 11 C 6 8.238281 8.238281 6 11 6 L 37 6 C 39.761719 6 42 8.238281 42 11 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(4.17 0 0 4.17 204.17 200)" id="surface1"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  transform=" translate(-25, -24)" d="M 31.894531 24.632813 C 31.15625 23.828125 30.171875 23.300781 28.945313 23.039063 L 28.265625 22.9375 C 29.117188 22.574219 29.785156 22.015625 30.269531 21.253906 C 30.757813 20.488281 31 19.625 31 18.644531 C 31 14 24.902344 14 23.445313 14 L 17 14 L 17 34 L 25.058594 34 C 26.441406 34 27.570313 33.871094 28.464844 33.625 C 29.363281 33.371094 30.1875 32.949219 30.933594 32.363281 C 31.5625 31.867188 32.066406 31.25 32.4375 30.496094 C 32.8125 29.742188 33 28.867188 33 27.875 C 33 26.515625 32.628906 25.4375 31.894531 24.632813 Z M 22 18 L 23.820313 18 C 23.820313 18 26.003906 17.9375 26.003906 20 C 26.003906 22.0625 23.886719 22 23.886719 22 L 22 22 Z M 24.957031 30 C 24.460938 30.019531 23.566406 30.007813 22.269531 30.007813 L 22 30.007813 L 22 25 L 25.042969 25 C 25.570313 25.015625 28 24.921875 28 27.460938 C 28 30 25.453125 29.980469 24.957031 30 Z" stroke-linecap="round" />
+</g>
+</svg>
